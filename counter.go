@@ -1,0 +1,4 @@
+/*
+Counter util
+*/
+package goutils
